@@ -17,11 +17,6 @@ import {
 
   import { LockOutlined, Visibility, VisibilityOff } from '@mui/icons-material';
   
-  export interface ef {
-    target: object;
-    name: string;
-    value: number;
-  }
 
   const Login = () => {
     //const classes = useStyles();
